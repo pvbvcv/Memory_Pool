@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/unitTest.dir/src/CentralCache.cpp.o CMakeFiles/unitTest.dir/src/PageCache.cpp.o CMakeFiles/unitTest.dir/src/ThreadCache.cpp.o CMakeFiles/unitTest.dir/tests/UnitTest.cpp.o -o unitTest  -lpthread
