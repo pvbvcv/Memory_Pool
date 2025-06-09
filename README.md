@@ -1,9 +1,12 @@
-# 1.项目编译
+# 1.项目介绍
+
+
+# 2.项目编译
 - `cd Memory_Pool`
 - `mkdir build && cd build`
 - `cmake ..`
 - `make`
 
-# 2.项目测试
-## `./unitTest`
-## `./performTest`
+# 3.项目测试
+- `./unitTest`
+- `./performTest`
