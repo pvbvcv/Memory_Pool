@@ -1,7 +1,8 @@
-# `cd Memory_Pool`
-# `mkdir build && cd build`
-# `cmake ..`
-# `make`
+# 构建项目
+## `cd Memory_Pool`
+## `mkdir build && cd build`
+## `cmake ..`
+## `make`
 # 测试
-# `./unitTest`
-# `./performTest`
+## `./unitTest`
+## `./performTest`
